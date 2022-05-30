@@ -32,3 +32,11 @@ Here are the steps:
     * `docker run -v $PWD:/srv/gitbook -v $PWD/html:/srv/html fellah/gitbook gitbook build . /srv/html`, generate html files in $PWD/html.
   * Another Chinese reference: https://www.cnblogs.com/xiaomingtx/p/5622514.html
 
+
+## Use GitBook-Summary
+
+gitbook-summary is a tool to generate SUMMARY.md file. Introduction: http://self-publishing.ebookchain.org/index.html #3.2
+  * install: `npm install -g gitbook-summary`
+  * create summary: run `book sm` under book dir.
+
+

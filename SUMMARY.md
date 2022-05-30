@@ -1,5 +1,5 @@
  * [Home](README.md)
- * [IT Knowledge](knowledge_it/README.md)
-   * [Setup Environment](knowledge_it/setup-env.md)
-   * [Install GitBook](knowledge_it/install-gitbook.md)
+ * [IT Knowledge](info-tech/README.md)
+   * [Setup Environment](info-tech/setup-env.md)
+   * [Install GitBook](info-tech/install-gitbook.md)
 

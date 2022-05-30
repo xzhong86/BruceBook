@@ -19,4 +19,16 @@ Here are the steps:
 ## Install on MacOS
 
 
+## Use Gitbook Docker
+
+  * First of all, install docker: https://docs.docker.com/engine/install/
+    * you need to start docker after installed: `sudo systemctl start docker`
+    * test docker: `sudo docker run hello-world`
+    * Then add yourself into docker group, `usemod -aG docker username`.
+
+  * Fellah/gitbook: https://github.com/Fellah/gitbook
+    * `docker pull fellal/gitbook`
+    * `docker run -p 80:4000 -v $PWD:/srv/gitbook fellah/gitbook` run gitbook serve (see Dockerfile in github code). this will use 80 port which is not recommanded.
+    * `docker run -v $PWD:/srv/gitbook -v $PWD/html:/srv/html fellah/gitbook gitbook build . /srv/html`, generate html files in $PWD/html.
+  * Another Chinese reference: https://www.cnblogs.com/xiaomingtx/p/5622514.html
 

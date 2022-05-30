@@ -16,4 +16,11 @@ On Ubuntu, 'gem install jekyll' works well.
 
 ### Use post-receive hook
 
+Used on my web server, to automatically push to github and update web pages.
+
+
+## Others
+创建单独的页面，在根目录或者任何文件夹里面创建markdown文件或者html文件即可。 markdown文件需要在文件头给出layout: page 才能生成。
+
+更新About页面时发现一个有用的图标生成网站：https://icon-sets.iconify.design/logos/jekyll/， 我用它生成了jekyll的图标，且可以设置图标大小。
 

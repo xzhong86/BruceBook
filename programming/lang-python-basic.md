@@ -74,3 +74,7 @@ import mytool
 from mytool import MyTool
 ```
 目前只找到通过添加加载path的方式加载自己的其他脚本
+
+## 其他小技巧
+
+ * 判断脚本是否为独立执行： `if __name__ == '__main__'`

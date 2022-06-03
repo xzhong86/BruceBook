@@ -109,3 +109,6 @@ load File.expand_path('../rblib/mytool.rb', __FILE__)
 ```
 require 能更好的处理重复加载的情况，使用require的时候可以忽略.rb 后缀。
 
+## 其他小技巧
+
+ * 判断脚本是否为独立执行： `if $0 == __FILE__`

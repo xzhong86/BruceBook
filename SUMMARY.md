@@ -7,7 +7,10 @@
  * [Modeling and Simulation](./modeling/README.md)
    * [Guestfish 工具使用](./modeling/guestfish-usage-tutorial.md)
    * [从鲲鹏920聊聊自研核](./modeling/cpu-kenpeng920-talk.md)
+ * [Geek DIY](geek-diy/README.md)
+   * [GH60客制化键盘](geek-diy/gh60-keyboard.md)
  * [哲学](./phisolophy/README.md)
+   * [夫列子御风而行](phisolophy/lie-zi-yu-feng.md)
  * [神学](./theology/README.md)
  * [IT Knowledge](info-tech/README.md)
    * [Setup Environment](info-tech/setup-env.md)
@@ -17,4 +20,5 @@
    * [OpenWRT 挂载 F2FS 延长SD卡寿命](info-tech/openwrt-f2fs-on-sd.md)
    * [Linux包管理器用法整理](info-tech/linux-package-managers.md)
    * [用户态读写磁盘镜像](info-tech/access-vm-images.md)
+
 

@@ -23,6 +23,6 @@
 ```
 
 ### 参考
-[ELisp 简明教程](http://smacs.github.io/elisp/)
-[ELisp 简明教程:基础知识](http://smacs.github.io/elisp/02-elisp-basic.html)
 
+ * [ELisp 简明教程](http://smacs.github.io/elisp/)
+ * [ELisp 简明教程:基础知识](http://smacs.github.io/elisp/02-elisp-basic.html)
